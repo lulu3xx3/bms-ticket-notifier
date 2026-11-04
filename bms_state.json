@@ -1,44 +1,11 @@
 {
-  "shows": {
-    "AVAB|14136|20261104|Tickets": {
-      "venue": "AVG Screens, 4K Dolby Atmos: Bhimavaram",
-      "time": "02:20 PM",
-      "date": "20261104",
-      "cat": "Tickets",
-      "price": "0",
-      "status": "3"
-    },
-    "SPMD|23629|20261104|Tickets": {
-      "venue": "Sri Padmalaya Cine Complex A/C 2K: Bhimavaram",
-      "time": "02:15 PM",
-      "date": "20261104",
-      "cat": "Tickets",
-      "price": "0",
-      "status": "3"
-    },
-    "AVAB|14146|20261105|Tickets": {
-      "venue": "AVG Screens, 4K Dolby Atmos: Bhimavaram",
-      "time": "11:15 AM",
-      "date": "20261105",
-      "cat": "Tickets",
-      "price": "0",
-      "status": "3"
-    },
-    "AVAB|14147|20261105|Tickets": {
-      "venue": "AVG Screens, 4K Dolby Atmos: Bhimavaram",
-      "time": "02:30 PM",
-      "date": "20261105",
-      "cat": "Tickets",
-      "price": "0",
-      "status": "3"
-    }
-  },
+  "shows": {},
   "dates": {
     "20261104": "AVAILABLE",
-    "20261105": "BOOKABLE",
-    "20261106": "NOT_OPEN",
-    "20261107": "NOT_OPEN",
-    "20261108": "NOT_OPEN",
+    "20261105": "AVAILABLE",
+    "20261106": "BOOKABLE",
+    "20261107": "AVAILABLE",
+    "20261108": "AVAILABLE",
     "20261109": "NOT_OPEN",
     "20261110": "NOT_OPEN"
   }
