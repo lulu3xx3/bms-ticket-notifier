@@ -1,12 +1,29 @@
 {
-  "shows": {},
+  "shows": {
+    "AVAB|14160|20261106|Tickets": {
+      "venue": "AVG Screens, 4K Dolby Atmos: Bhimavaram",
+      "time": "11:20 AM",
+      "date": "20261106",
+      "cat": "Tickets",
+      "price": "0",
+      "status": "3"
+    },
+    "AVAB|14161|20261106|Tickets": {
+      "venue": "AVG Screens, 4K Dolby Atmos: Bhimavaram",
+      "time": "02:30 PM",
+      "date": "20261106",
+      "cat": "Tickets",
+      "price": "0",
+      "status": "3"
+    }
+  },
   "dates": {
-    "20261105": "AVAILABLE",
     "20261106": "BOOKABLE",
     "20261107": "AVAILABLE",
     "20261108": "AVAILABLE",
     "20261109": "NOT_OPEN",
     "20261110": "NOT_OPEN",
-    "20261111": "NOT_OPEN"
+    "20261111": "NOT_OPEN",
+    "20261112": "NOT_OPEN"
   }
 }
